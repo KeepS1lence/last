@@ -1,0 +1,11 @@
+.img{
+  display:flex;
+  justify-content:center;
+}
+h1{
+  text-align:center;
+  color:Aqua;
+}
+body{
+  background-image:url("https://s0.rbk.ru/v6_top_pics/media/img/2/65/756780937003652.webp");
+}
